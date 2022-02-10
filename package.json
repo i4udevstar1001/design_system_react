@@ -171,7 +171,7 @@
 		"lodash.trim": "^4.0.1",
 		"minimist": "^1.2.0",
 		"mocha": "^3.1.2",
-		"node-sass": "^4.5.0",
+		"node-sass": "^7.0.0",
 		"normalizr": "^3.2.4",
 		"object.entries": "^1.0.4",
 		"phantomjs-polyfill-find-index": "^1.0.1",
